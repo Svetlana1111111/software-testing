@@ -8,4 +8,4 @@ def count money(money1, money2)
         return money1 + money2
 
 
-print count money(10, 50)
+print count money(10, 500000)
